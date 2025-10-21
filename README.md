@@ -46,12 +46,16 @@
   <img src="https://raw.githubusercontent.com/Pandeyashwin26/Pandeyashwin26/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-## 🎵 Music & Code
+## ⚡ Coding Stats
 <div align="center">
-  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
-  <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pandeyashwin26&theme=radical" alt="Coding Time" />
 </div>
+
+## 🎯 What I'm Working On
+- 🤖 **AI Chatbot** with natural language processing
+- 🌐 **Full Stack Web App** with React & Node.js
+- 📱 **Mobile App** with React Native
+- ☁️ **Cloud Deployment** on AWS/GCP
 
 ## 🏆 GitHub Trophies
 <div align="center">
