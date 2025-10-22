@@ -46,17 +46,6 @@
   <img src="https://raw.githubusercontent.com/Pandeyashwin26/Pandeyashwin26/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-## ⚡ Coding Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pandeyashwin26&theme=radical" alt="Coding Time" />
-</div>
-
-## 🎯 What I'm Working On
-- 🤖 **AI Chatbot** with natural language processing
-- 🌐 **Full Stack Web App** with React & Node.js
-- 📱 **Mobile App** with React Native
-- ☁️ **Cloud Deployment** on AWS/GCP
-
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Pandeyashwin26&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
