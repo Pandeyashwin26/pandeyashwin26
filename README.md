@@ -1,82 +1,128 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ashwin%20Pandey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=ASHWIN%20PANDEY&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Engineer&descAlignY=55&descAlign=50"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;🤖+AI+%26+ML+Engineer;⚡+Automation+Expert;🌟+Code+Wizard" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=⚡+FULL+STACK+DEVELOPER+⚡;🤖+AI+%26+MACHINE+LEARNING+🤖;🔥+AUTOMATION+SPECIALIST+🔥;💻+CODE+ARCHITECT+💻;🚀+TECH+INNOVATOR+🚀" alt="Typing SVG" />
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" /> System.out.println("About Me");
+
+```javascript
+const ashwin = {
+    role: "Full Stack Developer + AI Engineer",
+    code: ["Python", "JavaScript", "TypeScript", "Java", "C++"],
+    technologies: {
+        frontEnd: ["React", "Next.js", "Vue.js", "Angular"],
+        backEnd: ["Node.js", "Django", "FastAPI", "Spring Boot"],
+        mobile: ["React Native", "Flutter"],
+        databases: ["MongoDB", "PostgreSQL", "Redis", "Neo4j"],
+        ai_ml: ["TensorFlow", "PyTorch", "Scikit-learn", "OpenAI"],
+        cloud: ["AWS", "GCP", "Azure", "Docker", "Kubernetes"],
+        tools: ["Git", "Jenkins", "Terraform", "Grafana"]
+    },
+    currentFocus: "Building AI-powered applications",
+    funFact: "I debug code faster than I debug my life 😄"
+};
+```
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="35" /> Tech Stack
+
+<div align="center">
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart Increasing.png" alt="Chart" width="35" /> GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pandeyashwin26&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pandeyashwin26&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&langs_count=12"/>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pandeyashwin26&theme=algolia&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B35&currStreakLabel=00F5FF" alt="GitHub Streak" />
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop Computer.png" alt="Computer" width="35" /> Current Projects
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+```python
+class CurrentProjects:
+    def __init__(self):
+        self.projects = {
+            "ai_chatbot": {
+                "tech": ["Python", "OpenAI", "FastAPI", "React"],
+                "status": "In Development",
+                "description": "Intelligent conversational AI"
+            },
+            "cloud_automation": {
+                "tech": ["AWS", "Terraform", "Python", "Docker"],
+                "status": "Production",
+                "description": "Infrastructure automation suite"
+            },
+            "ml_pipeline": {
+                "tech": ["TensorFlow", "Kubernetes", "MLflow"],
+                "status": "Testing",
+                "description": "Scalable ML deployment platform"
+            }
+        }
+    
+    def get_status(self):
+        return "Building the future, one commit at a time 🚀"
+```
 
-- 🔥 **Full Stack Developer** + **AI Engineer**
-- 🚀 Building **next-gen applications** with AI
-- 💡 **10+ Technologies** mastered
-- 🌟 **Open Source** contributor
-- ⚡ **Automation** enthusiast
-- 🎯 **Problem solver** by nature
-
-<br clear="both"/>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> Tech Arsenal
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="35" /> Achievements
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="NodeJS" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="65" height="65" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Pandeyashwin26&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" />
 </div>
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar Chart.png" alt="Chart" width="35" /> Contribution Graph
+
 <div align="center">
-  <img src="https://img.shields.io/badge/AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Machine_Learning-4ECDC4?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Deep_Learning-45B7D1?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Automation-96CEB4?style=for-the-badge&logo=zapier&logoColor=white&labelColor=000000" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pandeyashwin26&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Fire" width="40" /> GitHub Stats
+---
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pandeyashwin26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pandeyashwin26&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pandeyashwin26&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Snake" width="40" /> Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Pandeyashwin26/Pandeyashwin26/output/github-contribution-grid-snake-dark.svg" alt="Snake Game"/>
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pandeyashwin26&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Fire" width="40" /> Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pandeyashwin26&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-</div>
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=Pandeyashwin26&style=for-the-badge&color=00F5FF)](https://github.com/Pandeyashwin26)
+[![GitHub Followers](https://img.shields.io/github/followers/Pandeyashwin26?style=for-the-badge&color=00F5FF&labelColor=0D1117)](https://github.com/Pandeyashwin26)
+[![GitHub Stars](https://img.shields.io/github/stars/Pandeyashwin26?style=for-the-badge&color=00F5FF&labelColor=0D1117)](https://github.com/Pandeyashwin26)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pandeyashwin26&style=for-the-badge&color=brightgreen" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Pandeyashwin26?style=for-the-badge&color=blue" alt="Followers" />
 </div>
